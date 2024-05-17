@@ -1,0 +1,14 @@
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\mysql.data.dll
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MSi-GP66\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

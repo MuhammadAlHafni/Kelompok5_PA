@@ -1,0 +1,61 @@
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\bin\Debug\PA.exe.config
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\bin\Debug\PA.exe
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\bin\Debug\PA.pdb
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\bin\Debug\PA.xml
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\obj\Debug\PA.exe
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\obj\Debug\PA.xml
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\obj\Debug\PA.pdb
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\obj\Debug\WindowsApplication1.formlogin.resources
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\obj\Debug\WindowsApplication1.formmanajemen.resources
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\Pertemuan 4\PA\PA\obj\Debug\WindowsApplication1.formbelanja.resources
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\bin\Debug\PA.exe.config
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\PA.exe
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\PA.xml
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\PA.pdb
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\bin\Debug\PA.exe
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\bin\Debug\PA.pdb
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\bin\Debug\PA.xml
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\WindowsApplication1.formlogin.resources
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\WindowsApplication1.formmanajemen.resources
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\WindowsApplication1.formbelanja.resources
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\WindowsApplication1.Formlupapassword.resources
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\WindowsApplication1.Formregister.resources
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\bin\Debug\PA.exe.config
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\PA.exe
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\PA.xml
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\PA.pdb
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\bin\Debug\PA.exe
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\bin\Debug\PA.pdb
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\bin\Debug\PA.xml
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\WindowsApplication1.formlogin.resources
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\WindowsApplication1.Formlupapassword.resources
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\WindowsApplication1.formmanajemen.resources
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\WindowsApplication1.FormBelanja.resources
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\WindowsApplication1.Formregister.resources
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+C:\Users\MSi-GP66\Documents\Semester 4\PemVis\PA\PA\obj\Debug\WindowsApplication1.Formkeranjangpelanggan.resources
+D:\PA\PA\PA\bin\Debug\PA.exe.config
+D:\PA\PA\PA\obj\Debug\PA.exe
+D:\PA\PA\PA\obj\Debug\PA.xml
+D:\PA\PA\PA\obj\Debug\PA.pdb
+D:\PA\PA\PA\bin\Debug\PA.exe
+D:\PA\PA\PA\bin\Debug\PA.pdb
+D:\PA\PA\PA\bin\Debug\PA.xml
+D:\PA\PA\PA\obj\Debug\PA.vbprojResolveAssemblyReference.cache
+D:\PA\PA\PA\obj\Debug\WindowsApplication1.Formkeranjangpelanggan.resources
+D:\PA\PA\PA\obj\Debug\WindowsApplication1.formlogin.resources
+D:\PA\PA\PA\obj\Debug\WindowsApplication1.Formlupapassword.resources
+D:\PA\PA\PA\obj\Debug\WindowsApplication1.formmanajemen.resources
+D:\PA\PA\PA\obj\Debug\WindowsApplication1.FormBelanja.resources
+D:\PA\PA\PA\obj\Debug\WindowsApplication1.Formregister.resources
+D:\PA\PA\PA\obj\Debug\WindowsApplication1.Resources.resources
+D:\PA\PA\PA\obj\Debug\PA.vbproj.GenerateResource.Cache
+C:\Users\Asus Gk\OneDrive\Documents\Visual Studio 2012\Projects\PA\PA\obj\Debug\WindowsApplication1.Formkeranjangpelanggan.resources
